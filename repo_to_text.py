@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 """
+GPL-3.0-or-later
+
 repo_to_text.py — Flatten a directory/repository into a single text file for LLM ingestion.
 
 Features
